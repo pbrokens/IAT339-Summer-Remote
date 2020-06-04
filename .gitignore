@@ -1,4 +1,7 @@
-.DS_store
-
+# exclude all jpeg and jpg as well as .DS_Store
 *.jpg
 *.jpeg
+*.gif
+*.png
+
+.DS_Store
